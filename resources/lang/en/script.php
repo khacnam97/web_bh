@@ -1,0 +1,27 @@
+<?php
+return [
+    'List Script' => 'スクリプトリスト',
+    'Active Script' => '実行スクリプトリスト',
+    'Name' => '名前',
+    'Description' => '説明',
+    'IsActive' => '有効',
+    'InActive' => '無効',
+    'Create Script' => 'スクリプトの作成',
+    'Edit Script'   => 'スクリプトの編集',
+    'Active Success' => 'アクティブに成功しました。',
+    'Sort Success'   => 'スクリプト位置の変更に成功しました。',
+    'File' => 'ファイル',
+    'File Name' => 'ファイル名',
+    'Choose File' => '選択…',
+    'DeActive Success' => '非アクティブ化に成功しました。',
+    'Ok button active' => '有効化',
+    'Ok button inactive' => '無効化',
+    'Active message' => '有効化したスクリプトは実行スクリプトリストの一番下に移動します。',
+    'Title confirm active' => 'このスクリプトを有効化して実行スクリプトになってもよろしいですか？',
+    'Title confirm inactive' => 'このスクリプトを無効化して実行スクリプトリストから削除してもよろしいですか？',
+    'Delete confirm script' => 'この項目を削除してもよろしいですか？',
+    'Delete title script' => '削除の確認',
+    'Status' => '種類',
+    'execFile' => '実行ファイル',
+    'supportFile' => 'その他ファイル'
+];

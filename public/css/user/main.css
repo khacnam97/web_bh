@@ -1,0 +1,19 @@
+.stt:before {
+    opacity: 0 !important;
+}
+
+.stt:after {
+    opacity: 0 !important;
+}
+#user-table a, #user-table button{
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+#user-table td:last-child{
+    padding: 7px;
+}
+
+#user-table_length {
+    margin-left: -15px;
+}

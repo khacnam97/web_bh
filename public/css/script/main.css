@@ -1,0 +1,46 @@
+#sortable > div{
+    background: #f1f1f1;
+    border: 1px solid #e7e7e7;
+}
+#sortable > div > a{
+    text-align: left;
+    font-size: 1.1em;
+}
+
+#sortable > div > a > i{
+    padding-top: 7px;
+    float: right;
+    color: #8c8c8c;
+}
+
+#fileName {
+    background-color: #f8f9fa;
+    border-right: 1px solid #c7cbd0;
+}
+
+#btnAdd {
+    border: 1px solid #c7cbd0;
+    background-color: #dee2e6;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.stt:before {
+    opacity: 0 !important;
+}
+
+.stt:after {
+    opacity: 0 !important;
+}
+
+#script-table a, #script-table button{
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+#script-table td:last-child{
+    padding: 7px;
+}
+
+#script-table_length {
+    margin-left: -15px;
+}

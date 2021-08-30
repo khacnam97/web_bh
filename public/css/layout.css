@@ -1,0 +1,52 @@
+.nav-pills .nav-link{
+    border-radius: 0px;
+}
+
+.sidebar{
+    padding: 0px;
+}
+
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active{
+    background-color: #4967a9;
+}
+
+.sidebar-mini .main-sidebar .nav-link, .sidebar-mini-md .main-sidebar .nav-link, .sidebar-mini-xs .main-sidebar .nav-link{
+    width: 100%;
+}
+
+.user-panel {
+    font-size: 20px;
+}
+
+table.dataTable thead .sorting:before, table.dataTable thead .sorting:after {
+    opacity: 0.7 !important;
+}
+
+table.dataTable thead .sorting:before, table.dataTable thead .sorting:after {
+    opacity: 0.7 !important;
+}
+
+.page-title{
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.main-header{
+    padding: 0;
+}
+.dropdown{
+    height: 55px;
+    color: white;
+    background: #921925;
+}
+.dropdown{
+    height: 55px;
+    background: #921925;
+}
+
+.dropdown .nav-link{
+    color: white !important;
+    font-size: 20px;
+    padding: 10px;
+    padding-right: 20px;
+}
